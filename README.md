@@ -1,13 +1,12 @@
-# Sample Hardhat Project
+# Gas Analysis
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Aim
 
-Try running some of the following tasks:
+Currently writing an article on comparision between ERC721 and ERC1155 which is why I want to show some technical differences between both of those.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+- [ ] Gas efficiency between these two
+- [ ] Trasnfer vs Safe Transfer
+
+## Differences
+
+Working on it right now!
